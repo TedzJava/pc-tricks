@@ -1,0 +1,12 @@
+body{
+    background-image: url("./../img/bg1-t4-2.jpg");
+}
+
+ul{
+    font-size: 25px;
+    list-style: none;
+    color: black;
+}
+a{
+    text-decoration: none;
+}
